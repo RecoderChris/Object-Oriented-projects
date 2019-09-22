@@ -24,6 +24,6 @@ The analysis of each homework about its structure and reality performance , the 
 
 ### Scene 4: UML Automatic Analysis(OO-HW-13 to OO-HW-15)
 
-##Concluding Article
+## Concluding Article
 
-You can find it both in my blog and click [***here***](OO-HW-15-final/Summary_of_w13_to_w14.docx).
+You can now find it both in my blog and click [***here***](OO-HW-15-final/Summary_of_w13_to_w14.docx).
