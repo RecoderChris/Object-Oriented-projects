@@ -1,6 +1,6 @@
 # Object-Oriented Programming(2019 Spring in SCSE, BUAA)
 
-## Basic Introduction of the resporitory
+## Introduction to the Resporitory
 
 The resporitory mainly stored the full `JAVA` code that I work on and my design summaries in 2019 Spring *Object-Oriented Programming*. The OO course in 2019 spring is challenging, interesting and much more student-friendly than ever before, made up by four totally different problem scene in reality. And what we have to do is to deal with all kinds of special ***User Requests*** come up by the course designer. 
 
