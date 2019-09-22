@@ -19,13 +19,13 @@ The analysis of each homework about its structure and reality performance , the 
 
 ## The four scene of the homework
 
-### Scene 1: Polynomial Calculating(OO-HW-01 to OO-HW-04)
+- Scene 1: Polynomial Calculating(OO-HW-01 to OO-HW-04)
 
-### Scene 2: Multi-Threading Elevator(OO-HW-05 to OO-HW-08)
+- Scene 2: Multi-Threading Elevator(OO-HW-05 to OO-HW-08)
 
-### Scene 3: Subway System(OO-HW-09 to OO-HW-12)
+- Scene 3: Subway System(OO-HW-09 to OO-HW-12)
 
-### Scene 4: UML Automatic Analysis(OO-HW-13 to OO-HW-15)
+- Scene 4: UML Automatic Analysis(OO-HW-13 to OO-HW-15)
 
 ## Concluding Article
 
