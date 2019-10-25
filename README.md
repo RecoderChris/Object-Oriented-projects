@@ -29,4 +29,4 @@ The analysis of each homework about its structure and reality performance , the 
 
 ## Concluding Article
 
-You can now find it both in my blog and click [***here***](OO-HW-15-final/Summary_of_w13_to_w14.docx).
+You can now find it both in [**my blog**](https://www.cnblogs.com/zhangxinmiao2019/) and click [**here**](OO-HW-15-final/Summary_of_w13_to_w14.docx).
