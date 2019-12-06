@@ -4,7 +4,7 @@
 
 The resporitory mainly stored the full `JAVA` code that I work on and my design summaries in 2019 Spring *Object-Oriented Programming*. The OO course in 2019 spring is challenging, interesting and much more student-friendly than ever before, made up by four totally different problem scene in reality. And what we have to do is to deal with all kinds of special ***User Requests*** come up by the course designer. 
 
-Each code directory is author's every week assignment in ***Course: Object-Oriented Programming*** in *SCSE BUAA*, 2019 Spring, directed by *Prof.Wu ji*, and the `README.md` files in every directory are published by the course designers, thankfully and respectively.
+Each code directory is author's every week assignment in ***Course: Object-Oriented Programming*** in *SCSE BUAA*, 2019 Spring, directed by *Prof.Wu ji*. And the `README.md` files in every directory are written and published by the course assistants, thankfully.
 
 
 ## Learn in OOP
